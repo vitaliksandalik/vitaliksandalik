@@ -3,7 +3,6 @@
 </div>
 
 - 💎 In love with web3, crypto 💎
-- 🔭 Passionate about new technologies 🔭
 - 🤔 Somewhere between junior and middle dev 🤔
 
 ## Connect with me:
