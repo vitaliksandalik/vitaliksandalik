@@ -2,9 +2,6 @@
   <h1>🤯 Hi there, I'm Vitalik</h1>
 </div>
 
-- 💎 In love with web3, crypto 💎
-- 🤔 Somewhere between junior and middle dev 🤔
-
 ## Connect with me:
 [![Telegram](https://github.com/vitaliksandalik/vitaliksandalik/assets/102806612/e13e4ba6-dde4-4a50-8106-f1ae8d30350b)](https://t.me/vitaliksandalik)
 [![Discord](https://github.com/vitaliksandalik/vitaliksandalik/assets/102806612/daa831c9-b4e8-4392-b1fe-45b7734903aa)](discordapp.com/users/vitaliksandalik)
@@ -13,25 +10,16 @@
 ## Languages and Tools
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,react,flutter,dart,sass,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,html,css)](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,py,cs)](https://skillicons.dev)
-
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode)](https://skillicons.dev)
-
-### Design and Multimedia
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,flask,express,nodejs)](https://skillicons.dev)
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
 
 ### Blockchain
 [![My Skills](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev)
 
-### Cloud Servers
-[![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
-
-### Automation
-[![My Skills](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,postman,vscode)](https://skillicons.dev)
