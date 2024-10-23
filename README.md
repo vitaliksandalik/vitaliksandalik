@@ -2,8 +2,6 @@
   <h1>🤯 Hi there, I'm Vitalik</h1>
 </div>
 
-[![Vitalii Golovko profile views](https://u8views.com/api/v1/github/profiles/102806612/views/day-week-month-total-count.svg)](https://u8views.com/github/vitaliksandalik)
-
 ## Connect with me:
 [![Telegram](https://github.com/vitaliksandalik/vitaliksandalik/assets/102806612/e13e4ba6-dde4-4a50-8106-f1ae8d30350b)](https://t.me/vitaliksandalik)
 [![Discord](https://github.com/vitaliksandalik/vitaliksandalik/assets/102806612/daa831c9-b4e8-4392-b1fe-45b7734903aa)](https://discordapp.com/users/412327205733924894)
@@ -25,3 +23,5 @@
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,postman,vscode)](https://skillicons.dev)
+
+[![Vitalii Golovko profile views](https://u8views.com/api/v1/github/profiles/102806612/views/day-week-month-total-count.svg)](https://u8views.com/github/vitaliksandalik)
