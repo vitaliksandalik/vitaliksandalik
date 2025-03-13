@@ -1,10 +1,9 @@
 <div align="center" style="padding: 25px;">
-  <h1>🤯 Hi there, I'm Vitalik</h1>
+  <h1>Developer Vitalii G</h1>
 </div>
 
-## Connect with me:
+## Connect:
 [![Telegram](https://github.com/vitaliksandalik/vitaliksandalik/assets/102806612/e13e4ba6-dde4-4a50-8106-f1ae8d30350b)](https://t.me/vitaliksandalik)
-[![Discord](https://github.com/vitaliksandalik/vitaliksandalik/assets/102806612/daa831c9-b4e8-4392-b1fe-45b7734903aa)](https://discordapp.com/users/412327205733924894)
 [![Linked](https://github.com/vitaliksandalik/vitaliksandalik/assets/102806612/ffdf76e9-6e52-4f8b-8b61-84c57ea7f604)](https://www.linkedin.com/in/vitalii-golovko-9b5aa7240)
 
 ## Languages and Tools
